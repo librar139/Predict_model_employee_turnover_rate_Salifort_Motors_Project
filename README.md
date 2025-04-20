@@ -4,7 +4,7 @@ Salifort Motors, a fiction company, has a high rate of turnover. Analyze the key
 The focusing feature: that predicts whether an employee will leave the company.
 The factors: their job title, department, number of projects, average monthly hours, and any other relevant data points.
 
-Through the PACE strategy, the final good model will help the company increase retention and job satisfaction for current employees, and save money and time training new employees. 
+Through the PACE strategy, the final champion model will help the company increase retention and job satisfaction for current employees, and save money and time training new employees. 
 
 Workflow:
 1. Data Preprocessing
@@ -18,3 +18,6 @@ Built-in feature importance scores, helping us highlight the most influential va
 Works well with non-linear relationships.
 
 Now let's get started
+
+![{675D19D6-479E-4652-801F-8B4F1EE6182F}](https://github.com/user-attachments/assets/86b0b3f9-9f71-40d1-a3bf-979ccab1fb69)
+
